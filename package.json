@@ -1,0 +1,24 @@
+{
+  "name": "airfarewatcher",
+  "version": "1.0.0",
+  "description": "Air Fare Watcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "g"
+  },
+  "keywords": [
+    "h"
+  ],
+  "author": "Andrew Mueller",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "puppeteer": "^0.13.0"
+  },
+  "devDependencies": {
+    "@types/puppeteer": "^0.13.5"
+  }
+}
